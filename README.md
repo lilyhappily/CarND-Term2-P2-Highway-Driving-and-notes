@@ -54,5 +54,5 @@ Spline fitting is used to generate trajectory from Project Q&A of Aaron Brown. F
 # Running the Program
 
 1. Download the simulator and open it. In the main menu screen select : Path Planning.
-2. The [CarND-Path-Planning](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project) has more detailed instructions for installing and using c++ uWebScoketIO.
+2. The [CarND-Path-Planning README](https://github.com/lilyhappily/Udacity-Project2-CarND-Highway-Driving-and-notes/blob/master/CarND-Path-Planning-Project/CMakeLists.txt) has more detailed instructions for installing and using c++ uWebScoketIO.
 

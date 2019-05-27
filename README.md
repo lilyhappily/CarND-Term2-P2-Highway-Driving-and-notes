@@ -23,7 +23,7 @@ After that, you'll learn how to plan where the vehicle should go, and how the ve
 
 # Visualization of Result
 
-                                      ![visualization](assets/visualization.gif)
+   ![visualization](assets/visualization.gif)
 
 # Overview
 
